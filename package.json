@@ -1,0 +1,45 @@
+{
+  "name": "Balquimia.Com-Client-Nuxt-2.14",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/dayjs": "^1.3.0",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.8.3",
+    "luxon": "^1.25.0",
+    "moment": "^2.29.1",
+    "numeral": "^2.0.6",
+    "nuxt": "^2.14.12",
+    "nuxt-imagemin": "^1.0.0",
+    "swiper": "^6.5.8",
+    "vue-chartjs": "^3.5.1",
+    "vue-password-strength-meter": "^1.7.2",
+    "vue2-datepicker": "^3.9.0",
+    "vuex-persistedstate": "^4.0.0-beta.3",
+    "weekstart": "^1.0.1",
+    "zxcvbn": "^4.4.2"
+  },
+  "devDependencies": {
+    "@aceforth/nuxt-optimized-images": "^1.4.0",
+    "@nuxtjs/tailwindcss": "^3.4.2",
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "@types/vue-datetime": "^1.0.1",
+    "autoprefixer": "^10.2.3",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-pngquant": "^9.0.1",
+    "imagemin-svgo": "^8.0.0",
+    "nuxt-tailvue": "^1.0.52",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2",
+    "webp-loader": "^0.6.0"
+  }
+}

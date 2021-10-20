@@ -1,0 +1,8 @@
+.nuxt-link-exact-active   {
+  color        : #D3500A;
+  font-weight  : bold;
+}
+
+.nuxt-link-exact-active:hover {
+  color:#D3500A;
+}
