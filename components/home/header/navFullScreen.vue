@@ -3,10 +3,10 @@
   <nav class="flex ">
     <ul class="flex items-center justify-center pt-5 xl:mr-40">
       <SimpleLink  textMenu='Inicio'      urlDestino='/'    :responisve = "false"></SimpleLink>    <!-- / -->
-      <SimpleLink  textMenu='Productos'   urlDestino='/'    :responisve = "false"></SimpleLink>    <!-- "/store/productos" -->
-      <SimpleLink  textMenu='Servicios'   urlDestino='/'    :responisve = "false"></SimpleLink>    <!-- "/home/servicios" -->
-      <SimpleLink  textMenu='Experiencia' urlDestino='/'    :responisve = "false"></SimpleLink>    <!-- "/home/experiencia" -->
-      <SimpleLink  textMenu='Contacto'    urlDestino='/'    :responisve = "false"></SimpleLink>    <!-- "/home/contacto" -->
+      <SimpleLink  textMenu='Productos'   urlDestino='/store/productos'  :responisve = "false"></SimpleLink>    <!-- "/store/productos" -->
+      <SimpleLink  textMenu='Servicios'   urlDestino='/home/servicios'   :responisve = "false"></SimpleLink>    <!-- "/home/servicios" -->
+      <SimpleLink  textMenu='Experiencia' urlDestino='/home/experiencia' :responisve = "false"></SimpleLink>    <!-- "/home/experiencia" -->
+      <SimpleLink  textMenu='Contacto'    urlDestino='/home/contacto'    :responisve = "false"></SimpleLink>    <!-- "/home/contacto" -->
 
       
     </ul>

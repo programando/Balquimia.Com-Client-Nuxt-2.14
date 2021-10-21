@@ -33,23 +33,18 @@ import Clientes             from "@/components/home/clientesList.vue";
 export default {
   layout:'layoutBalquimia',
   components: {
-     
     Slider,
     Experiencia,
     LineasProductos,
     Diferenciadores,
     ProductosDestacados,
     Clientes,
- 
   },
 
   data: () => ({}),
  
- 
   methods: {
-
     },
 
- 
 };
 </script>

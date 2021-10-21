@@ -63,6 +63,7 @@
             class="w-2/3 px-6 py-3 bg-white border border-gray-500 lg:w-4/5 focus:ring-2 focus:ring-gray-200"
             type="text"
             placeholder="Nombre"
+            v-model="nombre"
           />
           <input
             class="w-2/3 px-6 py-3 mt-2 bg-white border border-gray-500 lg:w-4/5 focus:ring-2 focus:ring-gray-200"
@@ -104,20 +105,35 @@
             class="px-6 py-2 mt-4 text-white bg-primary hover:bg-indigo-900"
             type="submit"
             value="Enviar mensaje"
+            @click="presione"
           />
+          
         </form>
       </div>
     </div>
      
   </div>
 </template>
+
 <script>
- import PoliticaTratamientoDatos from "@/components/comun/politicaDatos";
- 
-export default {
-  layout:'layoutBalquimia',
-  components:{PoliticaTratamientoDatos }
- 
-};
+      import PoliticaTratamientoDatos from "@/components/comun/politicaDatos";
+      
+      export default {
+        layout:'layoutBalquimia',
+        components:{PoliticaTratamientoDatos },
+        
+      data: () => ({
+            nombre : '',
+      }),
+
+      methods: {
+            presione() {
+              alert ("hola");
+              console.log ( this.nombre );
+            }
+      }
+      
+      };
 </script>
+
 <style></style>

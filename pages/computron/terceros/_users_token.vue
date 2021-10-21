@@ -80,7 +80,9 @@ export default {
         },
         errors : [],
     }),
-      mounted() {  this.formUser.token = this.$route.params.users_token; },
+      mounted() {  
+        this.formUser.token = this.$route.params.users_token; 
+        },
       methods: {
             userpasswordUpdate() {
                 this.errors=[];
