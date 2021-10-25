@@ -80,6 +80,4 @@ export default {
     top: 33px;
   }
 }
-
-
 </style>

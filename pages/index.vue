@@ -16,6 +16,8 @@
 
     <Clientes></Clientes>
 
+    <Whatsapp></Whatsapp>
+
      
   </div>
 </template>
@@ -28,6 +30,7 @@ import Slider               from "@/components/home/slider/slider";
 import Diferenciadores      from "@/components/home/diferenciadores.vue";
 import ProductosDestacados  from "@/components/home/productosDestacados/productosDestacados.vue";
 import Clientes             from "@/components/home/clientesList.vue";
+import Whatsapp             from "@/components/home/whatsapp/chat.vue";
  
  
 export default {
@@ -39,6 +42,8 @@ export default {
     Diferenciadores,
     ProductosDestacados,
     Clientes,
+    Whatsapp,
+
   },
 
   data: () => ({}),
