@@ -29,15 +29,10 @@
   position: relative;
 }
 
-.message:hover{
-
-}
-
 .chat:hover .whatsapp{
   transition: 300ms;
   right: 200px;
   top: 6px;
-
 }
 
 .chat{
