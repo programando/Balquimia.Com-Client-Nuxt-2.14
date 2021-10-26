@@ -20,7 +20,6 @@
 </script>
 
 <style>
-
 .message{
   margin-right: 10px;
   margin-bottom: 10px;
@@ -48,7 +47,6 @@
 }
 
 .chat:hover .message{
-
   opacity: 100%;
   transition: 300ms;
   top: 8px;
