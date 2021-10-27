@@ -43,7 +43,7 @@ export default {
   mounted() {
     const swiper = new Swiper(".swiper-container", {
       // Optional parameters
-      spaceBetween: 30,
+      spaceBetween: 10,
       centeredSlides: true,
       autoplay: {
         delay: 2500,
