@@ -140,6 +140,14 @@ export default {
   transform: rotateZ(-60deg);
 }
 
+@media (min-width: 360px) {
+  .hexagon-wrapper {
+    width: 360px;
+    height: 360px;
+    margin-bottom: 10%;
+  }
+}
+
 @media (min-width: 600px) {
   .hexagon-wrapper {
     width: 450px;

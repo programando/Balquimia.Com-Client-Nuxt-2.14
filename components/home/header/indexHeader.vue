@@ -67,7 +67,4 @@ export default {
   left: 0px;
 }
 
-
-
-
 </style>
