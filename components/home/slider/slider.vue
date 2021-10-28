@@ -74,18 +74,18 @@ export default {
 }
 
 .slider2 {
-  background-image: url("/images/home/slider/ambiente.webp");
+  background-image: url("/images/home/slider/image3.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slider3 {
-  background-image: url("/images/home/slider/equipo.webp");
+  background-image: url("/images/home/slider/image2.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 .slider4 {
-  background-image: url("/images/home/slider/investigacion.webp");
+  background-image: url("/images/home/slider/imagen-balquimia.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
