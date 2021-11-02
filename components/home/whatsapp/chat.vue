@@ -23,14 +23,14 @@
 .message{
   margin-right: 10px;
   margin-bottom: 10px;
-  width: 200px;
+  width: 300px;
   opacity: 0;
   position: relative;
 }
 
 .chat:hover .whatsapp{
   transition: 300ms;
-  right: 200px;
+  right: 300px;
   top: 6px;
 }
 
