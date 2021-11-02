@@ -70,10 +70,11 @@ export default {
   transition: 0.5s;
 }
 
-.card:hover .image .img {
+/*.card:hover .image .img {
   opacity: 0.5;
-  transform: translateX(30%); /*100%*/
+  transform: translateX(30%); /*100%*
 }
+*/
 
 .card .details {
   position: absolute;
@@ -86,10 +87,10 @@ export default {
   transform: perspective(2000px) rotateY(-90deg);
 }
 
-.card:hover .details {
+/*.card:hover .details {
   transform: perspective(2000px) rotateY(0deg);
 }
-
+*/
 .card .details .center {
   /* padding: 20px; */
   text-align: center;

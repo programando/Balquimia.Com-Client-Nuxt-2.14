@@ -5,7 +5,7 @@
         <h2
           class="mx-auto mt-20 text-3xl font-bold text-center md:mb-4 lg:text-5xl text-primary"
         >
-          Sectores industriales
+          Desinfectantes Especializados
         </h2>
       </div>
 
@@ -16,8 +16,9 @@
           :imagen    = "linea.imagen"
           :slogan    = "linea.slogan"
           :nom_linea = "linea.nom_linea"
+          
         >
-        </CardIndustrias>
+        </CardIndustrias>-->
       </div>
     
   </section>
@@ -31,15 +32,15 @@ export default {
   data: () => ({
     lineas: [
       {
-        id_linea: 3,
-        cod_linea: "03  ",
-        nom_linea: "INOCUIDAD ALIMENTARIA",
+       // id_linea: 3,
+       // cod_linea: "03  ",
+       // nom_linea: "INOCUIDAD ALIMENTARIA",
         orden_local: 1,
         orden_web: 1,
         imagen: "/images/home/industrias/inocuidad_alimentaria.jpg",
         slogan:
           "Texto alusivo a la linea Texto alusivo a la linea Texto alusivo a la linea",
-        inactivo: 0,
+        //inactivo: 0,
       },
       {
         id_linea: 7,
@@ -47,7 +48,7 @@ export default {
         nom_linea: "ARTES GRAFICAS",
         orden_local: 2,
         orden_web: 2,
-        imagen: "/images/home/industrias/artes_graficas.jpg",
+        imagen: "/images/home/industrias/boton1.png",
         slogan:
           "Texto alusivo a la linea Texto alusivo a la linea Texto alusivo a la linea",
         inactivo: 0,
@@ -66,7 +67,7 @@ export default {
       {
         id_linea: 4,
         cod_linea: "04  ",
-        nom_linea: "MANTENIMIENTO INDUSTRIAL",
+        nom_linea: "MANTENIMIENTO INDUSTRIAL",  
         orden_local: 4,
         orden_web: 4,
         imagen: "/images/home/industrias/mantenimiento_industrial.jpg",
