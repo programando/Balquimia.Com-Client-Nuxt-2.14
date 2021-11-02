@@ -26,8 +26,6 @@
   width: 300px;
   opacity: 0;
   position: relative;
-  -webkit-box-shadow: 0px -3px 9px 5px rgba(0,0,0,0.53); 
-  box-shadow: 0px -3px 9px 5px rgba(0,0,0,0.53);
 }
 
 .chat:hover .whatsapp{
