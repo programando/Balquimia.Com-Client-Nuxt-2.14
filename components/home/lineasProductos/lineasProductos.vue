@@ -18,7 +18,7 @@
           :nom_linea = "linea.nom_linea"
           
         >
-        </CardIndustrias>-->
+        </CardIndustrias>
       </div>
     
   </section>
@@ -70,7 +70,7 @@ export default {
         nom_linea: "MANTENIMIENTO INDUSTRIAL",  
         orden_local: 4,
         orden_web: 4,
-        imagen: "/images/home/industrias/mantenimiento_industrial.jpg",
+        imagen: "/images/home/industrias/boton5.png",
         slogan:
           "Texto alusivo a la linea Texto alusivo a la linea Texto alusivo a la linea",
         inactivo: 0,
@@ -98,6 +98,17 @@ export default {
         inactivo: 0,
       },
       {
+        id_linea: 13,
+        cod_linea: "SAN ",
+        nom_linea: "SANIDAD PORTÁTIL",
+        orden_local: 95,
+        orden_web: 95,
+        imagen: "/images/home/industrias/sanidad.jpg",
+        slogan:
+          "Texto alusivo a la linea Texto alusivo a la linea Texto alusivo a la linea",
+        inactivo: 0,
+      },
+            {
         id_linea: 13,
         cod_linea: "SAN ",
         nom_linea: "SANIDAD PORTÁTIL",
