@@ -1,5 +1,8 @@
 <template>
   <div class="pb-10 bg-white">
+
+    <div>
+      <Whatsapp></Whatsapp></div>
     <div
       class="bg-center bg-no-repeat bg-cover lg:py-20 "
       style="background-image:url(/images/home/footer/footer-contact.webp)"
@@ -122,8 +125,9 @@
 <script>
 import AppButton from "@/components/library/buttons/button";
 import PoliticaTratamientoDatos from "@/components/comun/politicaDatos";
+import Whatsapp             from "@/components/home/whatsapp/chat.vue";
 export default {
-  components: { AppButton, PoliticaTratamientoDatos },
+  components: { AppButton, PoliticaTratamientoDatos, Whatsapp },
 
   data: () => ({}),
 
