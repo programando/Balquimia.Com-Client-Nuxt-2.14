@@ -37,7 +37,7 @@ export default {
        // nom_linea: "INOCUIDAD ALIMENTARIA",
         orden_local: 1,
         orden_web: 1,
-        imagen: "/images/home/industrias/inocuidad_alimentaria.jpg",
+        imagen: "/images/home/industrias/boton1.png",
         slogan:
           "Texto alusivo a la linea Texto alusivo a la linea Texto alusivo a la linea",
         //inactivo: 0,
@@ -48,7 +48,7 @@ export default {
         nom_linea: "ARTES GRAFICAS",
         orden_local: 2,
         orden_web: 2,
-        imagen: "/images/home/industrias/boton1.png",
+        imagen: "/images/home/industrias/boton2.png",
         slogan:
           "Texto alusivo a la linea Texto alusivo a la linea Texto alusivo a la linea",
         inactivo: 0,
@@ -59,7 +59,7 @@ export default {
         nom_linea: "MATERIAS PRIMAS",
         orden_local: 3,
         orden_web: 3,
-        imagen: "/images/home/industrias/materias_primas.jpg",
+        imagen: "/images/home/industrias/boton3.png",
         slogan:
           "Texto alusivo a la linea Texto alusivo a la linea Texto alusivo a la linea",
         inactivo: 0,

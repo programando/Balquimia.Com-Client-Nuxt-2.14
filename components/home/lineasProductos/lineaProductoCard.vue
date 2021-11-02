@@ -70,11 +70,12 @@ export default {
   transition: 0.5s;
 }
 
-/*.card:hover .image .img {
+.card:hover .image .img {
   opacity: 0.5;
-  transform: translateX(30%); /*100%*
+  /*transform: translateX(30%); /*100%**/
+  transform: scale(1.2);
 }
-*/
+
 
 .card .details {
   position: absolute;
