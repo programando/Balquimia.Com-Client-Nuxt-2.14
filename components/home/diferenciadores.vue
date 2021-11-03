@@ -2,7 +2,7 @@
   <div >
     <div
       class="pt-20 -mb-48 bg-center bg-no-repeat bg-cover"
-      style="background-image: url(/images/home/diferenciadores/baru.webp)"
+      style="background-image: url(/images/home/diferenciadores/elegirnos.png)"
     >
       <div
         class="bg-center bg-no-repeat bg-cover"

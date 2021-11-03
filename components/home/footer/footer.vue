@@ -5,7 +5,7 @@
       <Whatsapp></Whatsapp></div>
     <div
       class="bg-center bg-no-repeat bg-cover lg:py-20 "
-      style="background-image:url(/images/home/footer/footer-contact.webp)"
+      style="background-image:url(/images/home/footer/despachamos.png)"
     >
       <div
         class="bg-center bg-no-repeat bg-cover "
@@ -14,7 +14,7 @@
         <div class="py-20">
           <div class="mx-10">
             <h2 class="text-2xl font-bold text-center">
-              Estamos listos, ¿Qué necesidad tienes en tu empresa?
+              Somos fabricantes, despachamos a cualquier parte del mundo.
             </h2>
 
             <AppButton
