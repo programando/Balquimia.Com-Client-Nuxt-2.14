@@ -22,6 +22,16 @@
                 class="min-h-screen bg-center bg-no-repeat bg-cover contenido-slider slider4"
               ></div>
             </div>
+             <div class="swiper-slide">
+              <div
+                class="min-h-screen bg-center bg-no-repeat bg-cover contenido-slider slider5"
+              ></div>
+            </div>
+            <div class="swiper-slide">
+              <div
+                class="min-h-screen bg-center bg-no-repeat bg-cover contenido-slider slider6"
+              ></div>
+            </div>
           </div>
           <!-- Add Pagination -->
           <div class="swiper-pagination"></div>
@@ -46,7 +56,7 @@ export default {
       spaceBetween: 10,
       centeredSlides: true,
       autoplay: {
-        delay: 2500,
+        delay: 5000,
         disableOnInteraction: false
       },
       pagination: {
@@ -68,24 +78,35 @@ export default {
 }
 
 .slider1 {
-  background-image: url("/images/home/slider/1-slider.png");
+  background-image: url("/images/home/slider/bienvenidos.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slider2 {
-  background-image: url("/images/home/slider/image3.png");
+  background-image: url("/images/home/slider/creador.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slider3 {
-  background-image: url("/images/home/slider/image2.png");
+  background-image: url("/images/home/slider/tambor.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 .slider4 {
-  background-image: url("/images/home/slider/imagen-balquimia.png");
+  background-image: url("/images/home/slider/creolina.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.slider5 {
+  background-image: url("/images/home/slider/cera.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slider6 {
+  background-image: url("/images/home/slider/elegirnos.png");
   background-size: cover;
   background-repeat: no-repeat;
 }

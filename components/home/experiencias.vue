@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-900">
+  <div class="bg-black">
     <div
       class="bg-center bg-no-repeat bg-cover"
       style="background-image: url(/images/comunes/malla2.webp)"
@@ -45,7 +45,7 @@
             <div class="relative">
               <img
                 class="h-auto seccion-2"
-                src="/images/home/experiencia/hexa1.webp"
+                src="/images/home/experiencia/hexa.png"
                 alt=""
               />
             </div>

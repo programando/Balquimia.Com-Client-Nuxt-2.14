@@ -2,21 +2,21 @@
   <div >
     <div
       class="pt-20 -mb-48 bg-center bg-no-repeat bg-cover"
-      style="background-image: url(/images/home/diferenciadores/elegirnos.png)"
+      style="background-image: url(/images/home/diferenciadores/girasoles.png)"
     >
       <div
         class="bg-center bg-no-repeat bg-cover"
-        style="background-image: url(/images/comunes/malla2.webp)"
+        style="background-image: url(/images/comunes/malla.webp)"
       >
  
 
         <div class="w-1/2 mx-6 my-10">
-          <h2 class="text-2xl font-semibold text-white md:text-2xl lg:text-5xl">
+          <h2 class="text-2xl font-semibold text-blue-800 md:text-2xl lg:text-5xl">
             ¿Por qué elegirnos?
           </h2>
          </div>
 
-        <div class="mt-10 -mb-8 md:grid md:grid-cols-4 lg:grid-cols-3 ">
+        <div class="mt-80 -mb-8 md:grid md:grid-cols-4 lg:grid-cols-3 ">
           <div
             class="col-span-2 md:ml-4 lg:ml-0 md:col-start-1 lg:col-span-1 "
           >
@@ -93,7 +93,7 @@ export default {
   margin: auto;
   display: flex;
   text-align: initial;
-  width: 450px;
+  width: 750px;
   height: 450px;
   cursor: pointer;
 }
