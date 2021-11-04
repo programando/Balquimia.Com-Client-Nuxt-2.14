@@ -13,8 +13,8 @@
       >
         <div class="py-20">
           <div class="mx-10">
-            <h2 class="text-2xl font-bold text-center">
-              Somos fabricantes, despachamos a cualquier parte del mundo.
+            <h2 class="text-3xl font-bold text-center bg-black text-white	">
+              
             </h2>
 
             <AppButton
@@ -73,9 +73,7 @@
         </div>
 
         <div class="flex justify-center lg:justify-start lg:ml-10 lg:mt-1">
-
         <PoliticaTratamientoDatos></PoliticaTratamientoDatos>
-
         </div>
 
       </div>

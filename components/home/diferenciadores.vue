@@ -11,7 +11,7 @@
  
 
         <div class="w-1/2 mx-6 my-10">
-          <h2 class="text-2xl font-semibold text-blue-800 md:text-2xl lg:text-5xl">
+          <h2 class="text-2xl font-semibold text-white md:text-2xl lg:text-5xl">
             ¿Por qué elegirnos?
           </h2>
          </div>
@@ -103,9 +103,9 @@ export default {
   width: 46%;
   height: 80%;
   margin: auto;
-  /* border: 1px solid black; */
-  /*background: linear-gradient(-180deg, white, #fda3b2); */
-  background-color: white;
+  border: 1px solid black;
+  background: linear-gradient(-180deg, white, transparent); 
+  /*background-color: white;*/
   display: flex;
   align-content: center;
   justify-content: center;

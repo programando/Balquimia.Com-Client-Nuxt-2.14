@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="max-h-screen pt-20 contenedor">
+    <div class="max-h-screen pt-8 contenedor">
       <div class="">
         <div class="swiper-container">
           <div class="pt-2 swiper-wrapper">
@@ -30,6 +30,16 @@
             <div class="swiper-slide">
               <div
                 class="min-h-screen bg-center bg-no-repeat bg-cover contenido-slider slider6"
+              ></div>
+            </div>
+            <div class="swiper-slide">
+              <div
+                class="min-h-screen bg-center bg-no-repeat bg-cover contenido-slider slider7"
+              ></div>
+            </div>
+            <div class="swiper-slide">
+              <div
+                class="min-h-screen bg-center bg-no-repeat bg-cover contenido-slider slider8"
               ></div>
             </div>
           </div>
@@ -90,22 +100,34 @@ export default {
 }
 
 .slider3 {
-  background-image: url("/images/home/slider/tambor.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-.slider4 {
   background-image: url("/images/home/slider/creolina.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
-.slider5 {
+.slider4 {
   background-image: url("/images/home/slider/cera.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.slider5 {
+  background-image: url("/images/home/slider/retrocho.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slider6 {
+  background-image: url("/images/home/slider/tambor.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slider7 {
+  background-image: url("/images/home/slider/tierra.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slider8 {
   background-image: url("/images/home/slider/elegirnos.png");
   background-size: cover;
   background-repeat: no-repeat;

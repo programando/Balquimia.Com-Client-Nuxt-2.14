@@ -2,7 +2,7 @@
   <div class="bg-black">
     <div
       class="bg-center bg-no-repeat bg-cover"
-      style="background-image: url(/images/comunes/malla2.webp)"
+      style="background-image: url(/images/comunes/malla2.png)"
     >
       <div class="px-10 pt-20 md:px-16 lg:px-0 lg:pl-16 ">
 
