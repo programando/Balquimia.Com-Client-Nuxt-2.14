@@ -38,7 +38,7 @@
     "imagemin-pngquant": "^9.0.1",
     "imagemin-svgo": "^8.0.0",
     "nuxt-tailvue": "^1.0.52",
-    "postcss": "^8.2.4",
+    "postcss": "^8.4.4",
     "tailwindcss": "^2.0.2",
     "webp-loader": "^0.6.0"
   }
